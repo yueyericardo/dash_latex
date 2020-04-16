@@ -2,7 +2,7 @@
 Make latex works in dash app
 
 ## Example1 
-[Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example of how to make most easy latex equations work with dash.
+[Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example of how to make most simple latex equations work with dash.
 
 #### Requirement
 ```bash
