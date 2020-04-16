@@ -1,13 +1,6 @@
 # dash_latex
 Make latex works in dash app
 
-<p class="img">
-<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png">
-<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png"></a>
-<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/3.png">
-<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/3.png"></a>
-</p>
-
 ## Example1 
 [Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example how to make most easy latex equations work at dash.
 
@@ -30,3 +23,7 @@ python free_particle.py
 
 ## Example2 [WIP] 
 example2 will make all latex equation works, but might take more steps
+
+## Screenshots
+![](https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png)
+![](https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/3.png)
