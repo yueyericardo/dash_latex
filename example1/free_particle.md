@@ -4,7 +4,7 @@ An important question to ask is: what is the probability to find a free particle
 
 This is crucial for measurements, since we would never measure ALL space at the same time, but instead, our instrument will measure a section of $x$ space 
 
-##### 1. Some equation `works`
+##### 1. Most easy equation `works`
 
 $$\hat H\left|k\right> = -\frac{\hbar^2}{2m} \frac{\partial^2\left|k\right>}{\partial x^2}
 = -\frac{\hbar^2}{2m} \frac{\partial^2}{\partial x^2}\left(\frac{1}{\sqrt{2\pi}}e^{ikx} \right)$$

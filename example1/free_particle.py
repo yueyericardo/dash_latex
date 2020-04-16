@@ -48,7 +48,7 @@ app.index_string = '''
 </html>
 '''
 
-md_text = open(os.path.join(filepath, "01_free_particle.md"), "r").read()
+md_text = open(os.path.join(filepath, "free_particle.md"), "r").read()
 
 
 def getfig2(k=4, dk=2, xmax=5):
