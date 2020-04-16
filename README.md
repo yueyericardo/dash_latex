@@ -2,7 +2,7 @@
 Make latex works in dash app
 
 ## Example1 
-[Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example how to make most easy latex equations work at dash.
+[Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example how to make most easy latex equations work with dash.
 
 #### Requirement
 ```bash
@@ -22,7 +22,7 @@ python free_particle.py
 ```
 
 ## Example2 [WIP] 
-example2 will make all latex equation works, but might take more steps
+Example2 will make all latex equation works, but might take more steps.
 
 ## Screenshots
 ![](https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png)
