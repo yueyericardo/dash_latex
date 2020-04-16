@@ -4,8 +4,8 @@ Make latex works in dash app
 <p class="img">
 <a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png">
 <img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png"></a>
-<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/2.png">
-<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/2.png"></a>
+<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/3.png">
+<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/3.png"></a>
 </p>
 
 ## Example1 
