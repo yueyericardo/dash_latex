@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+*.ipynb
+.DS_Store
+docs/*
+.vscode/*
+*/__pycache__/*
+*.pyc
+log/
+*.log
+*.sock
+*.pid
+*.pptx
