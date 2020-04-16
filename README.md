@@ -1,6 +1,13 @@
 # dash_latex
 Make latex works in dash app
 
+<p class="img">
+<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png">
+<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/1.png"></a>
+<a class="link"  href="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/2.png">
+<img width=49%  src="https://github.com/yueyericardo/dash_latex/blob/master/Screenshot/2.png"></a>
+</p>
+
 ## Example1 
 [Example1](https://github.com/yueyericardo/dash_latex/tree/master/Example1) gives a complete example how to make most easy latex equations work at dash.
 
