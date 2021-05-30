@@ -12,7 +12,7 @@ import dash_defer_js_import as dji
 
 filepath = os.path.split(os.path.realpath(__file__))[0]
 
-external_stylesheets = ['https://codepen.io/yueyericardo/pen/OJyLrKR.css',
+external_stylesheets = ['https://cdn.jsdelivr.net/gh/yueyericardo/simuc@master/apps/dash/resources/dash.css',
                         'https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.18.1/styles/monokai-sublime.min.css']
 
 
@@ -105,7 +105,7 @@ def getfig2(k=4, dk=2, xmax=5):
     return fig
 
 ###### important for latex ######
-axis_latex_script = dji.Import(src="https://codepen.io/yueyericardo/pen/pojyvgZ.js")
+axis_latex_script = dji.Import(src="https://cdn.jsdelivr.net/gh/yueyericardo/simuc@master/apps/dash/resources/redraw.js")
 mathjax_script = dji.Import(src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/latest.js?config=TeX-AMS-MML_SVG")
 
 # fig2
